@@ -1,0 +1,99 @@
+.NormalCharacterStyle5
+{
+  font-family : Uni Sans;
+  font-size : 36px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle4
+{
+  font-family : Uni Sans;
+  font-size : 46px;
+  color : #000000;
+  color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle3
+{
+  font-family : Uni Sans;
+  font-size : 36px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle2
+{
+  font-family : Uni Sans;
+  font-size : 46px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle1
+{
+  font-family : Uni Sans;
+  font-size : 22px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.NormalCharacterStyle
+{
+  font-family : Uni Sans;
+  font-size : 22px;
+  color : #FFFFFF;
+  color : rgb(255, 255, 255);
+}
+.HomePrimary
+{
+  background : #FFD700;
+  background : rgba(255, 215, 0, 1);
+  box-shadow : 0px 0px 5px rgba(0, 0, 0, 0.75);
+  filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=0, OffY=0, Color='#000000') ;
+}
+.HomeOverlay
+{
+  background : #929497;
+  background : rgba(146, 148, 151, 1);
+  opacity : 0.2;
+  filter: alpha(opacity=20) progid:DXImageTransform.Microsoft.Alpha(opacity=20) ;
+}
+.HomeAccent
+{
+  background : #800080;
+  background : rgba(128, 0, 128, 1);
+  border-radius : 11px 30px 30px 0px  / 0px 22px 22px 0px;
+  -moz-border-radius : 11px 30px 30px 0px  / 0px 22px 22px 0px;
+  -webkit-border-radius : 11px 30px 30px 0px  / 0px 22px 22px 0px;
+}
+.AwayPrimary
+{
+  background : #003366;
+  background : rgba(0, 51, 102, 1);
+  box-shadow : 0px 0px 5px rgba(0, 0, 0, 0.75);
+  filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=0, OffY=0, Color='#000000') ;
+}
+.AwayOverlay
+{
+  background : #929497;
+  background : rgba(146, 148, 151, 1);
+  opacity : 0.2;
+  filter: alpha(opacity=20) progid:DXImageTransform.Microsoft.Alpha(opacity=20) ;
+}
+.AwayAccent
+{
+  background : #CC0033;
+  background : rgba(204, 0, 51, 1);
+  border-radius : 11px 30px 30px 0px  / 0px 22px 22px 0px;
+  -moz-border-radius : 11px 30px 30px 0px  / 0px 22px 22px 0px;
+  -webkit-border-radius : 11px 30px 30px 0px  / 0px 22px 22px 0px;
+}
+.SeriesBg
+{
+  background : #0F0F0F;
+  background : rgba(15, 15, 15, 1);
+}
+.GameBg
+{
+  background : #282828;
+  background : rgba(40, 40, 40, 1);
+  border-radius : 0px;
+  -moz-border-radius : 0px;
+  -webkit-border-radius : 0px;
+}
